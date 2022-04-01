@@ -1,0 +1,37 @@
+.mainContainor {
+	width: 960px;
+	height: 740px;
+	margin: 10px auto;
+	font-family: 'Zen Antique', serif;
+
+}
+.sidebar{
+	width: calc(30% - 20px);
+	float: left;
+	padding: 10px;
+	height: 100%;
+}
+.right {
+	width: calc(70% - 40px) ;
+	height: 100%;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	background-color: #BBE5EE;
+}
+.left img {
+	width: 80%;
+	padding-left: 10px;
+}
+.name {
+	
+	font-size: 24px;
+}
+.contact {
+	padding-top: 22px;
+}
+.contact img {
+	width: 10%;
+	padding-top: 2px;
+}
